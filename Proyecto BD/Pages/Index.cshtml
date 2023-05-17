@@ -1,0 +1,73 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    List<Venta> ventas = Model.ventas;
+}
+
+<div class="text-center" style="display: none;">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div id="Buttons">
+    <form asp-page-handler="Add" method="post">
+        <input class="" placeholder="# Orden" name="order">
+        <input class="" placeholder="Cantidad" name="quantity">
+        <input class="" placeholder="ID Pieza" name="id_part">
+        <input class="" placeholder="Nombre" name="name"> 
+        <input class="" placeholder="RFC" name="rfc">
+        <input class="" placeholder="Regimen fiscal" name="regimen"> 
+        <button class="">Añadir</button>
+    </form>
+</div>
+
+<div id="Table">
+    <table>
+        <tr>
+            <th># Orden</th>
+            <th>Cantidad</th>
+            <th>ID pieza</th>
+            <th>nombre</th>
+            <th>RFC</th>
+            <th>Regimen fiscal</th>
+            <th></th>
+            <th></th>
+        </tr>
+        @foreach (Venta cliente in ventas)
+        {
+            <tr>
+                <form asp-page-handler="Update" asp-route-id="@(cliente.id)" method="post">
+                    <td>
+                    <input type="hidden" class=@("a" + cliente.id + "-input") value=@(cliente.id) name="id">
+                        <input class=@("a" + cliente.id + "-input") value=@(cliente.orden) placeholder="Orden" name="order" disabled> 
+                    </td>
+                    <td>
+                    <input class=@("a" + cliente.id + "-input") value=@(cliente.cantidad) placeholder="Cantidad" name="quantity" disabled>
+                </td>
+                    <td>
+                    <input class=@("a" + cliente.id + "-input") value=@(cliente.id_pieza) placeholder="ID Pieza" name="id_part" disabled>
+                    </td>
+                    <td>
+                    <input class=@("a" + cliente.id + "-input") value=@(cliente.nombre) placeholder="Nombre" name="name" disabled>
+                </td>
+                    <td>
+                    <input class=@("a" + cliente.id + "-input") value=@(cliente.RFC) placeholder="RFC" name="rfc" disabled>
+                    </td>
+                    <td>
+                    <input class=@("a" + cliente.id + "-input") value=@(cliente.regimen) placeholder="Regimen fiscal" name="regimen" disabled>
+                    </td>
+                    <td>
+                    <input type="button" class=@("a" + cliente.id + "-mod") onclick="EnableModify('@(cliente.id)')" value="Modificar" style=" background-color:greenyellow" />
+                    <button class=@("a" + cliente.id + "-apply") style="display: none; background-color:lawngreen" value=@(cliente.nombre) name="id">Aplicar</button>
+                    </td>
+                </form>
+                <td>
+                    <form asp-page-handler="Delete" asp-route-id=@(cliente.id) method="post">
+                        <button class="Rojo">Eliminar</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </table>
+</div>

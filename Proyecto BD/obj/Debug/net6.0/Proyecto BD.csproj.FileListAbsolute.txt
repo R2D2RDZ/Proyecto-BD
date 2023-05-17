@@ -1,0 +1,87 @@
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\appsettings.json
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Proyecto BD.staticwebassets.runtime.json
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Proyecto BD.exe
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Proyecto BD.deps.json
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Proyecto BD.runtimeconfig.json
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Proyecto BD.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Proyecto BD.pdb
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\Proyecto BD.csproj.AssemblyReference.cache
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\Proyecto BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\Proyecto BD.AssemblyInfoInputs.cache
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\Proyecto BD.AssemblyInfo.cs
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\Proyecto BD.csproj.CoreCompileInputs.cache
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\Proyecto BD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\Proyecto BD.RazorAssemblyInfo.cache
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\Proyecto BD.RazorAssemblyInfo.cs
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\staticwebassets\msbuild.Proyecto BD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\staticwebassets\msbuild.build.Proyecto BD.props
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto BD.props
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Proyecto BD.props
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\scopedcss\bundle\Proyecto BD.styles.css
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\scopedcss\projectbundle\Proyecto BD.bundle.scp.css
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\Proyecto BD.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\refint\Proyecto BD.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\Proyecto BD.pdb
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\Proyecto BD.genruntimeconfig.cache
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\ref\Proyecto BD.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Humanizer.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\R2D2R\source\repos\Proyecto BD\Proyecto BD\obj\Debug\net6.0\Proyecto BD.csproj.CopyComplete
